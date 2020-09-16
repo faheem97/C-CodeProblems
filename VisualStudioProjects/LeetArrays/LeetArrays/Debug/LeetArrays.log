@@ -1,5 +1,7 @@
 ﻿  main.cpp
-c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(121): warning C4018: '<': signed/unsigned mismatch
-c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(176): warning C4018: '<': signed/unsigned mismatch
-c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(243): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohd faheem khan\documents\github\c-codeproblems\visualstudioprojects\leetarrays\leetarrays\main.cpp(328): warning C4018: '<': signed/unsigned mismatch
   LeetArrays.vcxproj -> C:\Users\MOHD FAHEEM KHAN\Documents\GitHub\C-CodeProblems\VisualStudioProjects\LeetArrays\Debug\LeetArrays.exe
